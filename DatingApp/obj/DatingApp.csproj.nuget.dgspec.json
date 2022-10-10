@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hashir\\projects\\DatingAppN\\DatingApp\\DatingApp.csproj": {}
+    "D:\\hashir\\projects\\DatingApp\\DatingApp\\DatingApp.csproj": {}
   },
   "projects": {
-    "D:\\hashir\\projects\\DatingAppN\\DatingApp\\DatingApp.csproj": {
+    "D:\\hashir\\projects\\DatingApp\\DatingApp\\DatingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hashir\\projects\\DatingAppN\\DatingApp\\DatingApp.csproj",
+        "projectUniqueName": "D:\\hashir\\projects\\DatingApp\\DatingApp\\DatingApp.csproj",
         "projectName": "DatingApp",
-        "projectPath": "D:\\hashir\\projects\\DatingAppN\\DatingApp\\DatingApp.csproj",
+        "projectPath": "D:\\hashir\\projects\\DatingApp\\DatingApp\\DatingApp.csproj",
         "packagesPath": "C:\\Users\\hashir.ahmed\\.nuget\\packages\\",
-        "outputPath": "D:\\hashir\\projects\\DatingAppN\\DatingApp\\obj\\",
+        "outputPath": "D:\\hashir\\projects\\DatingApp\\DatingApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hashir.ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.0, )"
@@ -53,6 +57,14 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.1.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.23.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.23.1, )"
             }
           },
           "imports": [
