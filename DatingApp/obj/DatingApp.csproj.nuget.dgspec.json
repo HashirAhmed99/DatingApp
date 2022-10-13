@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hashir\\projects\\DatingApp\\DatingApp\\DatingApp.csproj": {}
+    "D:\\hashir\\projects\\DatingAppN\\DatingApp\\DatingApp.csproj": {}
   },
   "projects": {
-    "D:\\hashir\\projects\\DatingApp\\DatingApp\\DatingApp.csproj": {
+    "D:\\hashir\\projects\\DatingAppN\\DatingApp\\DatingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hashir\\projects\\DatingApp\\DatingApp\\DatingApp.csproj",
+        "projectUniqueName": "D:\\hashir\\projects\\DatingAppN\\DatingApp\\DatingApp.csproj",
         "projectName": "DatingApp",
-        "projectPath": "D:\\hashir\\projects\\DatingApp\\DatingApp\\DatingApp.csproj",
+        "projectPath": "D:\\hashir\\projects\\DatingAppN\\DatingApp\\DatingApp.csproj",
         "packagesPath": "C:\\Users\\hashir.ahmed\\.nuget\\packages\\",
-        "outputPath": "D:\\hashir\\projects\\DatingApp\\DatingApp\\obj\\",
+        "outputPath": "D:\\hashir\\projects\\DatingAppN\\DatingApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hashir.ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
